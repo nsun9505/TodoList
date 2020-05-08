@@ -1,0 +1,41 @@
+@charset "EUC-KR";
+
+/* Basic Style */
+body{
+	font : italic small-caps 20px arial;
+	background-color : #FFFFF0;
+}
+
+#divtop{
+	font-size : 50px;
+	text-align : center;
+}
+
+#divMain{
+	text-align : center;
+	color : gray;
+}
+
+input.box {
+	margin : 10px;
+	font-size : 20px;
+	width :300px;
+	height : 50px;
+	border:none;
+	border-right:0px; 
+	border-top:0px; 
+	boder-left:0px; 
+	boder-bottom:0px;
+}
+
+input.btn{
+	margin : 5px;
+	font-size : 20px;
+	width : 200px;
+	hieght : 20px;
+	border:none;
+	border-right:0px; 
+	border-top:0px; 
+	boder-left:0px; 
+	boder-bottom:0px;
+}
